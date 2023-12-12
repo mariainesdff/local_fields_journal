@@ -16,4 +16,4 @@ The formalization has been developed over Lean 3 and its mathematical library ma
 
 After installation, run the commands `leanproject get mariainesdff/local_fields_journal` to obtain a copy of the project's source files and dependencies and `leanproject get-mathlib-cache` to download a compiled mathlib. To open the project in VS Code, either run `path/to/local_fields_journal` on the command line, or use the "Open Folder" menu option to open the project's root directory. To compile the project locally, use the command `lean --make src`.
 
-Copyright (C) 2023, María Inés de Frutos-Fernández and Filippo Alberto Edoardo Nuccio Mortarino Majno Di Capriglio
+Copyright (C) 2023, María Inés de Frutos-Fernández and Filippo Alberto Edoardo Nuccio Mortarino Majno di Capriglio
