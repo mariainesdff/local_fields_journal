@@ -1,9 +1,13 @@
+/-
+Copyright (c) 2023 María Inés de Frutos-Fernández, Filippo A. E. Nuccio. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: María Inés de Frutos-Fernández, Filippo A. E. Nuccio
+-/
 import discrete_valuation_ring.discrete_norm
 import for_mathlib.discrete_valuation_ring
 import for_mathlib.ring_theory.integral_closure
 import for_mathlib.ring_theory.valuation.int_polynomial
 import for_mathlib.ring_theory.valuation.minpoly
--- import for_mathlib.field_theory.minpoly.is_integrally_closed
 
 /-!
 # Extensions of discrete valuations

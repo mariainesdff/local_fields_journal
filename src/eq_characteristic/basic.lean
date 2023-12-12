@@ -1,3 +1,8 @@
+/-
+Copyright (c) 2023 María Inés de Frutos-Fernández, Filippo A. E. Nuccio. All rights reserved.
+Released under Apache 2.0 license as described in the file LICENSE.
+Authors: María Inés de Frutos-Fernández, Filippo A. E. Nuccio
+-/
 import algebra.char_p.subring
 import discrete_valuation_ring.complete
 import laurent_series_equiv_adic_completion
