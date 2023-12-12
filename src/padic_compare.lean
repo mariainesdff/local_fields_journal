@@ -5,6 +5,7 @@ Authors: María Inés de Frutos-Fernández, Filippo A. E. Nuccio
 -/
 import discrete_valuation_ring.complete
 import number_theory.padics.padic_integers
+import ring_theory.discrete_valuation_ring.tfae
 import ring_theory.dedekind_domain.adic_valuation
 import for_mathlib.number_theory.padics.padic_integers
 import for_mathlib.ring_theory.dedekind_domain.ideal
