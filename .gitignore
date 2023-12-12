@@ -1,0 +1,16 @@
+*.olean
+*.json
+*.bbl
+*.aux
+*.blg
+*.log
+*.out
+*.pdf
+*.synctex.gz
+decls.pickle
+decls.yaml
+/_target
+/leanpkg.path
+print/
+web/
+CPP_paper/aux_files
