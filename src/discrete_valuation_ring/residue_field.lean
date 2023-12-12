@@ -6,6 +6,7 @@ Authors: María Inés de Frutos-Fernández, Filippo A. E. Nuccio
 import discrete_valuation_ring.extensions
 import number_theory.ramification_inertia
 import ring_theory.dedekind_domain.integral_closure
+import ring_theory.discrete_valuation_ring.tfae
 
 /-! # The residue field of a DVR
 In this file we consider a finite extension `L/K` of a discretely valued field `K`. By the results
